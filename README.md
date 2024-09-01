@@ -1,8 +1,12 @@
-<h1 align="center"> Polymux </h1>
+<h1 align="center">
+  <img src="./assets/Polymux.png" width="100" alt="Logo"/><br/>
+  Polymux 
+</h1>
 
-<h3 align="center">
-	The fully configurable statusbar for <a href="https://github.com/tmux/tmux">Tmux</a>
-</h3>
+<p align="center">
+  <a href="https://github.com/joelflaig/polymux/stargazers"><img src="https://img.shields.io/github/stars/joelflaig/polymux?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/joelflaig/polymux/stargazers"><img src="https://img.shields.io/github/issues/joelflaig/polymux?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+</p>
 
 ## Content
 1. [Installation](#Installation)
@@ -30,5 +34,4 @@ set -g @plugin 'tmux-plugins/tpm'
 2. Add the following line to your `tmux.conf` file:
     `run ~/.config/tmux/plugins/polymux/polymux.tmux`
 4. Reload Tmux by either restarting the session or reloading it with `tmux source-file ~/.tmux.conf`
-
 
