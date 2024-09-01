@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/joelflaig/polymux/stargazers"><img src="https://img.shields.io/github/stars/joelflaig/polymux?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
   <a href="https://github.com/joelflaig/polymux/stargazers"><img src="https://img.shields.io/github/issues/joelflaig/polymux?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+
 </p>
 
 ## Content
